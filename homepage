@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BlackPDX</title>
+  <link rel="stylesheet" href="Main.css">
+</head>
+<body>
+<center>
+<h1 style="color:white;"><center><link href="https://fonts.googleapis.com/css?family=Bungee+Inline" rel="stylesheet"><a href="https://www.washingtonpost.com/">
+    Blackland</a></center></h1>
+  
+<h3>This aint Portlandia.</h3>
+  
+<ul><link href="https://fonts.googleapis.com/css?family=Titan+One" rel="stylesheet">
+    <center>
+      <li><a href="http://www.vice.com/en_us">About //</a></li>
+      <li><a href="http://www.vibe.com/">Art //</a></li>
+      <li><a href="http://www.vibe.com/">Blogs //</a></li>
+      <li><a href="http://www.nytimes.com/">Music //</a></li>
+      <li><a href="https://www.washingtonpost.com/">Profiles //</a></li>
+  </center></ul>
+
+<div class="photos">
+
+  <div class="wilson"><a href="https://fonts.google.com/?query=bunge&selection.family=Bungee+Shade">
+    <img height=350 width=500 id="august" src="http://epmgaa.media.clients.ellingtoncms.com/img/photos/2016/09/30/victor_mack_w_t580.jpg?8f1b5874916776826eb17d7e67de7278c987ca33"></a>
+  <h2>
+    <span>History Alive:<span class='spacer3'></span><br />Kevin Jone's August Wilson premiere</span>
+    </h2>
+  </div>
+
+
+  <div class="howell">
+    <a href="http://www.blindtextgenerator.com/lorem-ipsum"><img id="blake"; height=350; width=350; id="blake"; src="https://scontent-lga3-1.xx.fbcdn.net/t31.0-8/14124397_1285702351470559_3363670447375345184_o.jpg"></a>
+    <h2><span>Art from the Underground:<span class='spacer2'></span><br /><span class='spacer4'>Blake Howell</span></span></h2>
+  </div>
+  
+<div class="last">
+    <a href="https://soundcloud.com/thelastartful"><img height=350; width="500"; id="dodgr"; src="https://s3.amazonaws.com/wapopartners.com/wweek-wp/wp-content/uploads/2015/11/30184758/LastArtfulDodgr_coDevinTolman.jpg" alt=""/></a>
+<h2><span>
+  Music for the People:<span class='spacer'></span><br /><span class='spacer'>The Last Artful Dodgr</span></span></h2>
+  
+  </div>
+  </div>
+
+</body>
+</html>
